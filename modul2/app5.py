@@ -1,0 +1,5 @@
+net = int(input('Venit: '))
+print('Recomandarile noastre:')
+print('Cheltuieli uzuale: ', net * 0.5)
+print('Recreere: ', net * 0.3)
+print('Economii: ', net * 0.2)
